@@ -1,0 +1,138 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+header{
+	background-color: #AF929D;
+	height: 250px;
+}
+.name{
+	line-height: 45px;
+	font-size: 25px;
+	font-weight: 500;
+	top: 78px;
+	color: #FFF7B3;
+}
+
+.menu-items {
+  display: flex;
+
+}
+
+.menu-items li {
+  list-style: none;
+  padding: 1rem;
+
+}
+
+.menu-items a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+  padding: 0.5rem;
+ 
+}
+
+.menu-items a:hover {
+  border-bottom: 2px solid  #eb7620;
+}
+.name1{
+	line-height: 55px;
+	font-size: 15px;
+	font-weight: 500;
+	margin-top: 40px;
+}
+.name1 p{
+	font-size: 20px;
+}
+
+section{
+	height: 500px;
+}
+ .ab{
+	background-color: #A499B3;
+	font-size: 35px;
+}
+.about_me{
+	width: 1300px;
+	height: 250px;
+}
+.about{
+	width: 650px;
+	height: 250px;
+	background-color: #A499B3;
+	float: left;
+	color: #E2FFB0;
+	line-height: 28px;
+	font-size: 20px;
+}
+.image{
+	width: 650px;
+	height: 250px;
+	float: left;
+	background-color: #A499B3;
+	background-image: url('sarvesh.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.skill{
+	line-height: 35px;
+	font-size: 20px;
+	font-weight: 500px;
+	background-color: #D0BCD5;
+}
+.sk{
+	background-color: #D0BCD5; 
+	font-size: 35px;
+}
+.Projects{
+	font-size: 35px;
+	background-color: #E6E8E6;
+}
+.clone {
+	height: 200px;
+	width: 300px;
+	float: left;
+	background-color: #E6E8E6;
+}
+.landing{
+	height: 200px;
+	width: 300px;
+	float: left;
+	background-color: #E6E8E6;
+}
+.Portfolio{
+	height: 200px;
+	width: 300px;
+	float: left;
+	background-color: #E6E8E6;
+}
+.Calculator{
+	height: 200px;
+	width: 300px;
+	float: left;
+	background-color: #E6E8E6;
+}
+.contact{
+	height: 400px;
+	background-color: #E6E8E6;
+}
+.mail{
+	line-height: 30px;
+	top: 20px;
+	font-size: 20px;
+	font-weight: 400;
+}
+.links{
+	margin-top: 10px;
+	line-height: 30px;
+	font-size: 20px;
+	font-weight: 400;
+}
+footer{
+	height: 80px;
+	text-align: center;
+	color: blue;
+	background-color: #9FC4BE;
+}
